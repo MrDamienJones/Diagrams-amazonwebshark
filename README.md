@@ -1,5 +1,5 @@
 # Diagrams-amazonwebshark
-A repo for storing digrams produced for amazonwebshark.
+A repo for storing digrams produced for [my amazonwebshark blog.](https://www.amazonwebshark.com/).
 
 Resources used:
 
